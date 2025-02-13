@@ -130,5 +130,5 @@ dist
 
 
 #scans 
-scans/*.
+scans/*
 nmap_results.txt

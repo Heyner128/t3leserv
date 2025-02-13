@@ -12,6 +12,8 @@ Ajoutez au fichier .env les variables
 
 - `TELEGRAM_BOT_TOKEN` : Votre token pour l'API de telegram généré par @BotFather
 
+- `PROXY_URL` : Si le serveur est deployé dérrière un proxy, l'URL finale doit être paramètré avec ce variable
+
 - `CHAT_ID` : L'ID du chat à envoyer le rapport
 
 - `PORT` : Le port de démarrage du serveur Express
